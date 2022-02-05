@@ -1,4 +1,4 @@
-# 🔗 [Digital Innovation One (DIO) | CRUD de Séries em C#](https://github.com/elizarp/dio-dotnet-poo-lab-2)
+# 🔗 [Digital Innovation One (DIO) | CRUD de Séries em C#]
 <!--![DIO logo](https://i.imgur.com/mprXgcQ.jpeg)-->
 <img src="https://i.imgur.com/mprXgcQ.jpeg" alt="DIO logo" width="250" height="250"> <img src="https://i.imgur.com/RUC6vTt.png" alt="CRUD" width="440" height="">
 
